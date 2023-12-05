@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: red;
+    border: 1px solid white;
+    padding: 40px;
+    margin: 10px;
+    
+}
+body {
+    background-color: black;
+}
